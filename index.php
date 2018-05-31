@@ -1,4 +1,8 @@
 <?php
+$title = 'Strona Główna';
+?>
+
+<?php
 include_once "header.php";
 ?>
 

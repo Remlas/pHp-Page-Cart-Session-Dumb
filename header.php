@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="pl">
 	<head>
-		
+		<title><?php echo $title ?></title>
 		<meta charset="UTF-8">
-		<title>Title of the document</title>
+		<meta name="author" content="Remlas">
+		<link rel="stylesheet" href="style.css">
 	</head>
